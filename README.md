@@ -35,6 +35,6 @@ FAN_SPEED: 7740
 
 This is nothing fancy. There is no GUI. There is no automatic temp-fan control. It is command line only to quickly read or set the fan speed of a raspberry pi, nothing else.
 
-Have fun, I'm not responsible for what you do to you're own stuff running this code. (But if something sets itself on fire, send me a video of it as it'll epic.)
+Have fun, I'm not responsible for what you do to your own stuff running this code. (But if something sets itself on fire, send me a video of it as it'll epic.)
 
 (May work with nvidia jetson as well as over SPI and/or GPIO, don't know, haven't tested it, but it seems the waveshare backend has support for it.)
